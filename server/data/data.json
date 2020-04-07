@@ -4,7 +4,7 @@
   "resumelink": "https://drive.google.com/file/d/1k4c-HvkgDjjV-j0HXNPaqNfpndNl658O/view",
   "email": "nashodar@stevens.edu",
   "profile": {
-    "bio": ""
+    "bio": "I am a software developer looking for a software developer role. I am experienced in tech stack like Python, Java, JavaScript, Node.js. Apart from my professional life I love to travel. I would love to contribute to the company's project"
   },
   "workexp": [
     {
@@ -33,7 +33,12 @@
       "university": "Stevens Institute of Technology",
       "degree": "M.S. in Computer Science",
       "gpa": "3.82/4",
-      "courses": ["Algorithms", "Web programming", "Web Mining", "Principles of Programming Languages"],
+      "courses": [
+        "Algorithms",
+        "Web programming",
+        "Web Mining",
+        "Principles of Programming Languages"
+      ],
       "location": "Hoboken, NJ, USA",
       "description": ""
     },
@@ -43,7 +48,12 @@
       "university": "University of Mumbai",
       "degree": "B.E. in Computer Engineering",
       "gpa": "8.82/10",
-      "courses": ["Soft Computing", "Machine Learning", "Database Management Systems", "Data Structures"],
+      "courses": [
+        "Soft Computing",
+        "Machine Learning",
+        "Database Management Systems",
+        "Data Structures"
+      ],
       "location": "Mumbai, India",
       "description": ""
     }
